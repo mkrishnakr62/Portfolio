@@ -39,12 +39,10 @@ chat integration
 
 this project is developed by using
 
-- Next js
 - Node js
 - Express js
 - MongoDB
 - Tailwind css
-- Cloudinary
 - Material UI
 - Material Tailwind
   etc...
@@ -55,7 +53,6 @@ this project is developed by using
 
 create a mongodb atlas account : https://www.mongodb.com/products/platform/atlas-database
 
-create a cloudinary account : https://cloudinary.com/
 
 use visual studio code editor : https://code.visualstudio.com/download
 
